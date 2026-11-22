@@ -1,3 +1,5 @@
+![Banner de la LAN Party](./Banner.png)
+
 # LAN Party: reservas de cupos en Stellar
 
 Una LAN Party tiene una cantidad limitada de puestos con espacio, enchufe y conexión de red. Si las reservas se coordinan por chat, es fácil anotar dos veces a alguien o prometer más lugares de los que hay. Este contrato en Rust y Soroban descuenta los cupos de un único evento y no permite que la misma dirección reserve dos veces.
